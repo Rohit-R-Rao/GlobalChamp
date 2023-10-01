@@ -1,0 +1,24 @@
+Git setup:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+Pushing:
+git add script.py
+git commit -m "Added a Python script"
+git push origin main
+Pulling:
+git pull
+
+
+Running the Website:
+Make sure Node.js version 12.2 or > is installed
+node -v to check if installed
+After cloning repo, cd into GlobalChamp.
+
+You will need to use npm command.
+(Disregard this Line)If creating new project vite proj: npm init vite@latest my-react-app --template react
+
+Now we need to setup the project so:
+npm install
+
+now you can run the website using npm run dev
+from there we can copy paste the ip url to get to our site.
