@@ -18,6 +18,8 @@ You will need to use npm command.
 (Disregard this Line)If creating new project vite proj: npm init vite@latest my-react-app --template react
 
 Now we need to setup the project so:
+ls - see the shit in dir
+cd my_react_app - get inside to use npm command
 npm install
 
 now you can run the website using npm run dev -- --host
