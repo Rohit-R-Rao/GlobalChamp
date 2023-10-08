@@ -16,6 +16,12 @@ After cloning repo, cd into GlobalChamp.
 
 You will need to use npm command.
 (Disregard this Line)If creating new project vite proj: npm init vite@latest my-react-app --template react
+React - JavaScript
+
+
+  cd my-react-app
+  npm install
+  npm run dev
 
 Now we need to setup the project so:
 npm install
