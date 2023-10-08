@@ -2,8 +2,9 @@ Git setup:
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 Pushing:
-git add script.py
-git commit -m "Added a Python script"
+*Make sure ur in GlobalChamp and not my-react-app
+git add my-react-app
+git commit -m "changes made"
 git push origin main
 Pulling:
 git pull
